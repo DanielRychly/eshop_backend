@@ -49,9 +49,9 @@ public class Product{
 
     public Product(String name){
         this.name = name;
-        this.description = "defualt desc";
-        this.amount = 1;
-        this.unit = "defualt desc";
+        this.description = "defualt description";
+        this.amount = 10;
+        this.unit = "pieces";
         this.price = 100;
     }
 
